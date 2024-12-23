@@ -6,10 +6,6 @@
 </img>
 
 
-
-
-- 📫 How to reach me **ygotlaica@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/laica-ygot-" target="blank">
