@@ -1,8 +1,7 @@
 <h3 align="center">I am an aspiring UI/UX Designer, Web Designer, and Front-End Developer</h3>
 <hr>
-
 <img href="https://github.com/larajunglau/">
-  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="MasterHead" width="100%" style="height: 55vh;" />
+  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="MasterHead" width="100%" style="height: 35vh;" />
 </img>
 
 
