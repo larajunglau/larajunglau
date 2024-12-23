@@ -1,9 +1,12 @@
-<a href="https://github.com/larajunglau/">
-  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="MasterHead" width="100%" style="height: 55vh;" />
-</a>
+<h3 align="center">I am an aspiring UI/UX Designer, Web Designer, and Front-End Developer</h3>
+<hr>
 
-<h1 align="center">Hi 👋,</h1>
-<h3 align="center">I am an aspiring UI/UX designer, Web Designer, and Front-End Developer</h1>
+<img href="https://github.com/larajunglau/">
+  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="MasterHead" width="100%" style="height: 55vh;" />
+</img>
+
+
+
 
 - 📫 How to reach me **ygotlaica@gmail.com**
 
